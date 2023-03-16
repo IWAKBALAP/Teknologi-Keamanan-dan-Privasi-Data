@@ -21,7 +21,7 @@ def decrypt(ciphertext, key):
     return plaintext
 
 
-plaintext = "128"
+plaintext = "28"
 key = 3
 ciphertext = encrypt(plaintext, key)
 print("Ciphertext:", ciphertext)
