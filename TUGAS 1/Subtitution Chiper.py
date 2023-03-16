@@ -1,6 +1,6 @@
 alphabet = "abcdefghijklmnopqrstuvwxyz"
 key = "fcpevqkzgmtrayonujdlwhbxsi"
-text = "aku ganteng bet"
+text = "yahya"
 
 result = ""
 for letter in text:
